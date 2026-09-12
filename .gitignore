@@ -1,0 +1,11 @@
+#v-env back
+backend/back_venv
+
+#v-env front
+frontend/front_venv
+
+#.env
+.env
+
+#_pycache_
+**/pycache/**
